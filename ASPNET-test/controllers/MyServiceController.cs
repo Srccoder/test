@@ -18,7 +18,7 @@ namespace ASPNET_test.controllers
         // GET api/<controller>/5
         public string Get(int id)
         {
-            return "valuetest";
+            return "valuetest2";
         }
 
         // POST api/<controller>
